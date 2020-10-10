@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="329ace03-6c5b-4b13-ad05-042e657022c2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iTFdX2oyBxtFFrHJGysWdXYPPD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="329ace03-6c5b-4b13-ad05-042e657022c2" name="Default Changelist" comment="" />
+      <created>1601923762885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601923762885</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="23" key="FileDocumentManager.FileCacheConflict" timestamp="1601939989885">
+      <screen x="0" y="23" width="1920" height="777" />
+    </state>
+    <state x="0" y="23" key="FileDocumentManager.FileCacheConflict/0.23.1920.777@0.23.1920.777" timestamp="1601939989885" />
+    <state width="1088" height="198" key="GridCell.Tab.0.bottom" timestamp="1602005676403">
+      <screen x="0" y="23" width="1920" height="777" />
+    </state>
+    <state width="1088" height="198" key="GridCell.Tab.0.bottom/0.23.1920.777@0.23.1920.777" timestamp="1602005676403" />
+    <state width="1088" height="198" key="GridCell.Tab.0.center" timestamp="1602005676402">
+      <screen x="0" y="23" width="1920" height="777" />
+    </state>
+    <state width="1088" height="198" key="GridCell.Tab.0.center/0.23.1920.777@0.23.1920.777" timestamp="1602005676402" />
+    <state width="1088" height="198" key="GridCell.Tab.0.left" timestamp="1602005676401">
+      <screen x="0" y="23" width="1920" height="777" />
+    </state>
+    <state width="1088" height="198" key="GridCell.Tab.0.left/0.23.1920.777@0.23.1920.777" timestamp="1602005676401" />
+    <state width="1088" height="198" key="GridCell.Tab.0.right" timestamp="1602005676402">
+      <screen x="0" y="23" width="1920" height="777" />
+    </state>
+    <state width="1088" height="198" key="GridCell.Tab.0.right/0.23.1920.777@0.23.1920.777" timestamp="1602005676402" />
+  </component>
+</project>
